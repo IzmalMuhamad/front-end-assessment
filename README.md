@@ -1,1 +1,1 @@
-This is a Front-End Assessment provided by Sigma School. It is a todo list of games that needs to be finished. This project is using React + Javascript + Redux.
+This is a Front-End Assessment provided by Sigma School. It is a todo list of games that needs to be finished. This project is using React + Javascript + Redux. Boostrap and Boostrap icons is also used here.
