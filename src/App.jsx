@@ -19,6 +19,7 @@ function Layout() {
           <Navbar.Brand href="/list">Todos</Navbar.Brand>
           <Nav>
             <Nav.Link href="/add">Add Todo</Nav.Link>
+            <Nav.Link href="/">Logout</Nav.Link>
           </Nav>
         </Container>
       </Navbar>
